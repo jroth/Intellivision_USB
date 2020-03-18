@@ -1,4 +1,10 @@
 # Intellivision_USB_adapter
+3/17/2020
+Forked from
+https://github.com/drgruney/Intellivision_USB
+Updated to map enter key to left shift to function with the controller button assignment on screen menu in Mister FPGA
+
+
 10/7/2018
 Updated two player version of code so inputs will properly detect and player 1 cannot block player 2 from ever inputting commands. Comments inside include bindings to be used in jzint emulator.
 
